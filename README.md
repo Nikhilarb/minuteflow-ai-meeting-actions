@@ -85,7 +85,7 @@ Using an illustrative assumption of 10 meetings per week, the estimated potentia
 
 The application was published using Google AI Studio.
 
-**Live Demo:** [Add published application URL]
+**Live Demo:** https://minuteflow-meeting-notes-to-action-items.ai.studio
 
 ## Project Documentation
 
