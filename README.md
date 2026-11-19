@@ -91,7 +91,7 @@ The application was published using Google AI Studio.
 
 The development journey, testing evidence, identified issues, improvements, and final validation are documented in the project report.
 
-[View Project Documentation](docs/Build-Meeting-Actions-in-AI-Studio.pdf)
+[View Project Documentation] docs/Build-Meeting-Actions-in-AI-Studio.pdf
 
 ## Key Learning
 
